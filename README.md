@@ -1,3 +1,8 @@
 # Credit_card_Financial_Dasboard
-Project objective
-To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+
+Overall revenue is 55M
+Total interest is 8M
+Total transaction amount is 45M
+Male customers are contributing more in revenue 30M, female 25M
+Blue & Silver credit card are contributing to 93% of overall transactions
+TX, NY & CA is contributing to 68%
